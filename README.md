@@ -1,9 +1,6 @@
 <!-- Replace REPOSITORY_NAME with your repository name -->
 # Welcome to my Repositories!
-
-[![GitHub](https://img.shields.io/badge/GitHub-khalilDimassi%2FkhalilDimassi-blue)](https://github.com/khalilDimassi/khalilDimassi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalil%20Allah%20Dimassi-blue)](https://www.linkedin.com/in/khalil-allah-dimassi-2b50b513a/)
-[![Twitter](https://img.shields.io/badge/Twitter-@KhalilADimassi-blue)](https://twitter.com/KhalilADimassi)
+[![Web](https://img.shields.io/badge/Business%20Card-KhalilAllah%20Dimassi-blue)](https://myqrcode.com/qr/f166afaa/view)
 
 Welcome to my special repository! This repository showcases my projects, code snippets, and experiments that reflect my passion for programming and problem-solving.
 
