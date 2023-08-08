@@ -4,11 +4,9 @@
 
 Welcome to my special repository! This repository showcases my projects, code snippets, and experiments that reflect my passion for programming and problem-solving.
 
-<centre>
-  ---
-  ![Business Card QR](https://raw.githubusercontent.com/khalilDimassi/KhalilDimassi/main/vector%20qr.svg)
-  ---
-</centre>
+---
+![Business Card QR](https://raw.githubusercontent.com/khalilDimassi/KhalilDimassi/main/vector%20qr.svg)
+---
 ## 🔭 Current Projects
 
 I'm currently working on the following projects:
